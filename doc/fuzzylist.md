@@ -2,10 +2,10 @@
 
 - *ethereum.org*
   - commit [8a3572ba2] (2017-08-03)
-  - removed [1f89580](https://github.com/MetaMask/eth-phishing-detect/commit/1f89580) (2017-08-06)
+  - removed [1f89580] (2017-08-06)
 
 - metamask.io
-  - commit [8a3572ba2](https://github.com/MetaMask/eth-phishing-detect/commit/8a3572ba2) (2017-08-03)
+  - commit [8a3572ba2] (2017-08-03)
 
 - myetherwallet.com
   - commit [8a3572ba2](https://github.com/MetaMask/eth-phishing-detect/commit/8a3572ba2) (2017-08-03)
