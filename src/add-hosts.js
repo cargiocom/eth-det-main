@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 const fs = require('fs');
 const config = require('./config.json');
-const PhishingDetector = require('./detector')
+const EthDet = require('./detector')
 
 const SECTION_KEYS = {
   blocklist: 'blacklist',
