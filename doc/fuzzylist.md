@@ -8,10 +8,10 @@
   - commit [8a3572ba2] (2017-08-03)
 
 - myetherwallet.com
-  - commit [8a3572ba2](https://github.com/MetaMask/eth-phishing-detect/commit/8a3572ba2) (2017-08-03)
+  - commit [8a3572ba2] (2017-08-03)
 
 - cryptokitties.co
-  - commit [3112e8d](https://github.com/MetaMask/eth-phishing-detect/commit/3112e8d) (2017-12-12)
+  - commit [3112e8d] (2017-12-12)
 
 - *mycrypto.com*
   - commit [7c7fbaa51](https://github.com/MetaMask/eth-phishing-detect/commit/7c7fbaa51) (2018-02-09)
