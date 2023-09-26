@@ -1,8 +1,5 @@
 # config.json: fuzzylist
 
-This list may not be complete.
-Please correct any mistakes if found.
-
 - *ethereum.org*
   - commit [8a3572ba2](https://github.com/MetaMask/eth-phishing-detect/commit/8a3572ba2) (2017-08-03)
   - removed [1f89580](https://github.com/MetaMask/eth-phishing-detect/commit/1f89580) (2017-08-06)
