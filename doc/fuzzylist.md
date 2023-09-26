@@ -14,8 +14,8 @@
   - commit [3112e8d] (2017-12-12)
 
 - *mycrypto.com*
-  - commit [7c7fbaa51](https://github.com/MetaMask/eth-phishing-detect/commit/7c7fbaa51) (2018-02-09)
-  - removed [97d6514](https://github.com/MetaMask/eth-phishing-detect/commit/97d6514) (2021-01-29)
+  - commit [7c7fbaa51] (2018-02-09)
+  - removed [97d6514] (2021-01-29)
 
 - localethereum.com
   - commit [8931f9b](https://github.com/MetaMask/eth-phishing-detect/commit/8931f9b) (2018-02-24)
