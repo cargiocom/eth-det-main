@@ -1,7 +1,7 @@
-const PhishingDetector = require('./detector')
+const EthDet = require('./detector')
 const config = require('./config.json')
 
-const detector = new PhishingDetector(config)
+const detector = new EthDet(config)
 
 module.exports = checkDomain
 
