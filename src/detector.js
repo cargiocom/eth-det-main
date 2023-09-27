@@ -133,10 +133,6 @@ function domainPartsToDomain(domainParts) {
   return domainParts.slice().reverse().join('.')
 }
 
-function domainPartsToFuzzyForm(domainParts) {
-  return domainParts.slice(1).reverse().join('.')
-}
-
 function matchPartsAgainstList(source, list) {
   return list.find((target) => {
     if (target.length > source.length) return false
