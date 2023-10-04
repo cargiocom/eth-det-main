@@ -2,7 +2,6 @@
   "version": 2,
   "tolerance": 2,
   "fuzzylist": [
-    "cryptokitties.co",
     "launchpad.ethereum.org",
     "etherscan.io",
     "makerfoundation.com",
