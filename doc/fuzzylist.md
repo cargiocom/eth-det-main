@@ -1,5 +1,5 @@
-444444444# config.json: fuzzylist44444444
-4
+# config.json: fuzzylist
+
 - *ethereum.org*
   - commit [8a3572ba2] (2017-08-03)
   - removed [1f89580] (2017-08-06)
